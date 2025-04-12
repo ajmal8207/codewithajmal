@@ -1,3 +1,3 @@
 # codewithajmal
-This is my first
+This is my first Git repository
 author - Md Ajmal
